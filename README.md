@@ -42,7 +42,7 @@ $ ng serve
 
 ### Todos
 
- - Implementar Integración continua ()
+ - Implementar Integración continua (Jenkins)
  - Hacer mas testings.
  - Mejorar la aplicación.
 
