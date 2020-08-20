@@ -19,8 +19,7 @@ app.get('/rates', async (req, res) => {
     }
     catch(e) {
         res.send([]);
-    }
-    
+    }    
 
 });
 

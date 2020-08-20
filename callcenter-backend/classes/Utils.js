@@ -31,7 +31,7 @@ const processDates = (lines) => {
 class Utils  {  
     
     static readFile (fs) {
-            return fs.readFileSync('./files/historial_de_conversacionessdfdsffds.txt',{ encoding: 'utf8' });
+            return fs.readFileSync('./files/historial_de_conversaciones.txt',{ encoding: 'utf8' });
     }    
 
     static processData (data) {
