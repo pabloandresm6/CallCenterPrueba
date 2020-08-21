@@ -1,5 +1,8 @@
 # Call Center
 
+![alt text](https://github.com/pabloandresm6/CallCenterPrueba/blob/master/callcenter-backend/files/screenshot1.PNG?raw=true)
+![alt text](https://github.com/pabloandresm6/CallCenterPrueba/blob/master/callcenter-frontend/src/assets/img/screenshot2.PNG?raw=true)
+
 Call Center es una pagina web destinada a la calificacion de servicios de call center, basado en Angular 8+ y Node.js.
 
   - Representación de conversaciones
